@@ -1,0 +1,21 @@
+body {
+  background: #582E44;
+}
+
+h1 {
+  color: #A8293C;
+  font-weight: bold;
+}
+
+main {
+  max-width: 35rem;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+/*# sourceMappingURL=index.css.map */
